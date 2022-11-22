@@ -1,0 +1,15 @@
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\bin\Debug\net7.0\Objective_001.exe
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\bin\Debug\net7.0\Objective_001.deps.json
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\bin\Debug\net7.0\Objective_001.runtimeconfig.json
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\bin\Debug\net7.0\Objective_001.dll
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\bin\Debug\net7.0\Objective_001.pdb
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.csproj.AssemblyReference.cache
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.AssemblyInfoInputs.cache
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.AssemblyInfo.cs
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.csproj.CoreCompileInputs.cache
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.dll
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\refint\Objective_001.dll
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.pdb
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\Objective_001.genruntimeconfig.cache
+C:\Users\dns\Documents\Учеба Фил\C# course\Webinar_8\Objective_001\obj\Debug\net7.0\ref\Objective_001.dll
